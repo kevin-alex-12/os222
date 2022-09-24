@@ -1,4 +1,4 @@
----
+i--
 permalink: LINKS/
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
@@ -21,7 +21,7 @@ Just for understanding basic of cyber security. Like the title, it contains intr
 3. [Authentication Software Vs. Encription Software: Know the Basics](https://geekflare.com/authentication-vs-encryption-software/)<br>
 Need something to protect your data? Here, you can known about two basic features of data security. The one is authentication and the other is encryption.
 
-4. [Classic SysAdmin: The Linux Filesystem Explained] (https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained)<br>
+4. [Classic SysAdmin: The Linux Filesystem Explained](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained)<br>
 This is an explanation about old Linux Filesystem. You need read this before understanding the topography of the filesystem because the documentation is not exist.
 <br>
 <hr>
