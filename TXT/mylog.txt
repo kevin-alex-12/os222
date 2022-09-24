@@ -21,3 +21,10 @@ ZCZC W02 10 L05 Quiz related including studying
 ZCZC W02 10 L40 TXT/ related in general
 ZCZC W02 5 L03 GitHub and git related, including commit, push, pull
 ZCZC W02 20 L01 SCELE/Discord related
+ZCZC W03 110 L02 ZOOM meetings related
+ZCZC W03 20 L05 Quiz related including studying
+ZCZC W03 15 L01 SCELE/Discord related
+ZCZC W03 100 L99 Other (Offline Class)
+ZCZC W03 60 L13 Assignment #03
+ZCZC W03 20 L09 Assignment in General
+ZCZC W03 5 L03 GitHub and git related, including commit, push, pull
