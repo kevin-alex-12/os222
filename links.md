@@ -23,6 +23,12 @@ Need something to protect your data? Here, you can known about two basic feature
 
 4. [Classic SysAdmin: The Linux Filesystem Explained](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained)<br>
 This is an explanation about old Linux Filesystem. You need read this before understanding the topography of the filesystem because the documentation is not exist.
+
+5. [Introduction to Memory Management](https://www.studytonight.com/operating-system/memory-management)<br>
+All explains about Memory Management in common operating system. You need to read this web for additional knowledge.
+
+6. [What is Virtual Memory?](https://www.studytonight.com/operating-system/virtual-memory)<br>
+Introduction to Virtual Memory. Contains summary for concept of Virtual Memory in operating system.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

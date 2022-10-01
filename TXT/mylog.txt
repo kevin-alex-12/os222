@@ -28,3 +28,10 @@ ZCZC W03 100 L99 Other (Offline Class)
 ZCZC W03 60 L13 Assignment #03
 ZCZC W03 20 L09 Assignment in General
 ZCZC W03 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 110 L02 ZOOM meetings related
+ZCZC W04 15 L05 Quiz related including studying
+ZCZC W04 20 L01 SCELE/Discord related
+ZCZC W04 85 L99 Other (Offline Class)
+ZCZC W04 60 L14 Assignment #04
+ZCZC W04 10 L09 Assignment in General
+ZCZC W04 5 L03 GitHub and git related, including commit, push, pull
