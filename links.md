@@ -29,6 +29,9 @@ All explains about Memory Management in common operating system. You need to rea
 
 6. [What is Virtual Memory?](https://www.studytonight.com/operating-system/virtual-memory)<br>
 Introduction to Virtual Memory. Contains summary for concept of Virtual Memory in operating system.
+
+7. [What is Virtual Memory? What Does it Do?](https://www.youtube.com/watch?v=qeOBEOBJREs)<br>
+Just a video for introduction to Virtual Memory. Quick video for quick explanation.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
