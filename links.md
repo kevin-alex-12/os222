@@ -32,6 +32,12 @@ Introduction to Virtual Memory. Contains summary for concept of Virtual Memory i
 
 7. [What is Virtual Memory? What Does it Do?](https://www.youtube.com/watch?v=qeOBEOBJREs)<br>
 Just a video for introduction to Virtual Memory. Quick video for quick explanation.
+
+8. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system)<br>
+Simple explanation for concurrency. Just for additional knowledge.
+
+9. [Difference between Process and Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread)<br>
+It has a comparison table for process and thread. Also the definition of both.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
