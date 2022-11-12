@@ -38,6 +38,12 @@ Simple explanation for concurrency. Just for additional knowledge.
 
 9. [Difference between Process and Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread)<br>
 It has a comparison table for process and thread. Also the definition of both.
+
+10. [Introduction of Deadlock in Operating System](https://geeksforgeeks.org/introduction-of-deadlock-in-operating-system)<br>
+Explanation for deadlock. Also has a quick video for that.
+
+11. [Process Synchronization in Operating System](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)<br>
+Helping to understand the synchronization process. Has a "challenge" quiz for test your understanding.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
