@@ -44,6 +44,12 @@ Explanation for deadlock. Also has a quick video for that.
 
 11. [Process Synchronization in Operating System](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)<br>
 Helping to understand the synchronization process. Has a "challenge" quiz for test your understanding.
+
+12. [Operating System - Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)<br>
+Good for review only. Explain the basic knowledge for scheduling process in opertaring system.
+
+13. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+Explain about scheduling in CPU. Also has some exercise.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
