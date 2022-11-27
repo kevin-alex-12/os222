@@ -50,6 +50,9 @@ Good for review only. Explain the basic knowledge for scheduling process in oper
 
 13. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
 Explain about scheduling in CPU. Also has some exercise.
+
+14. [Storage Structure in Operating Systems](https://www.geeksforgeeks.org/storage-structure-in-operating-systems/)<br>
+Explain about type of storage in Operating Systems. Quick explanation for you.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
